@@ -1,0 +1,6 @@
+@Gametopia.SteamIntegration_HostAddress = http://localhost:5068
+
+GET {{Gametopia.SteamIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
